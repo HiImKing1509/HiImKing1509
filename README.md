@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **HiImKing1509/HiImKing1509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+# Hello-Word
+This is my first time using Github
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{Hello-World}/count.svg"/></p>
+<div align="center">
+</div>
