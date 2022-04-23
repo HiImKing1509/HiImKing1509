@@ -1,5 +1,5 @@
 <h1 align="center">Hi guys👋, I'm Huynh Viet Tuan Kiet</h1>
-<h4 align="center">I'm Sophomoreat a university of information technology in Vietnam I am passionate about artificial intelligence, machine learning, deep learning and web development. I am currently studying and researching in the field of computer science, software development, English skills and social skills</h4>
+<h4 align="center">I'm Sophomore at a university of information technology in Vietnam I am passionate about artificial intelligence, machine learning, deep learning and web development. I am currently studying and researching in the field of computer science, software development, English skills and social skills</h4>
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=hiimking1509&label=Profile%20views&color=0e75b6&style=flat" alt="hiimking1509" /> </div>
 
