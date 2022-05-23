@@ -1,7 +1,7 @@
 <h1 align="center">Hi guys👋, I'm Huynh Viet Tuan Kiet</h1>
 <h4 align="center">I'm Sophomore at a university of information technology in Vietnam.</br> I am passionate about Artificial Intelligence, Machine Learning, Deep Learning and Web Development. </br>I am currently studying and researching in the field of Computer Science, Software Development, English skills and Social skills</h4>
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=hiimking1509&label=Profile%20views&color=0e75b6&style=flat" alt="hiimking1509" /> </div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=hiimking1509&label=Profile%20views&color=0e75b6&style=plastic" alt="hiimking1509" /> </div>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiimking1509" alt="hiimking1509" /></a> </p>
 
