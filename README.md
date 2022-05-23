@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Scientific Research Articles**
 
-- 👨‍💻 My research and study team [https://uit-together.github.io/?fbclid=IwAR1va9U7n2wXFMybcU55gqFaFt0hCpWSLOl9QVCfLJpbAzzyk0KgfE6s4Ws](https://uit-together.github.io/?fbclid=IwAR1va9U7n2wXFMybcU55gqFaFt0hCpWSLOl9QVCfLJpbAzzyk0KgfE6s4Ws)
+- 👨‍💻 My research and study team: <a href="https://uit-together.github.io/?fbclid=IwAR1va9U7n2wXFMybcU55gqFaFt0hCpWSLOl9QVCfLJpbAzzyk0KgfE6s4Ws">UIT Together</a>
 
 - 💬 Ask me about **Programming, Algorithms, Web development, Machine Learning, Deep learning, ...**
 
