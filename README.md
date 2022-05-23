@@ -11,11 +11,11 @@
 
 - 🤝 I’m looking for help with **Scientific Research Articles**
 
-- 👨‍💻 My research and study team: <a href="https://uit-together.github.io/?fbclid=IwAR1va9U7n2wXFMybcU55gqFaFt0hCpWSLOl9QVCfLJpbAzzyk0KgfE6s4Ws">UIT Together</a>
+- 👨‍💻 My research and study team: <a href="https://uit-together.github.io/?fbclid=IwAR1va9U7n2wXFMybcU55gqFaFt0hCpWSLOl9QVCfLJpbAzzyk0KgfE6s4Ws">UIT-Together Research Group</a>
 
 - 💬 Ask me about **Programming, Algorithms, Web development, Machine Learning, Deep learning, ...**
 
-- 📫 How to reach me: <a href="hvtkiet.15092002@gmail.com">Personal email</a> (recommend) or <a href="20521494@gm.uit.edu.vn">Business email</a>
+- 📫 How to reach me: **hvtkiet.15092002@gmail.com** (Personal email) or **20521494@gm.uit.edu.vn** (Business email)
 
 - ⚡ Fun fact **I am passionate about traveling, playing football and playing the guitar**
 
