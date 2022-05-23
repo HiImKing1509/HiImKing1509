@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Programming, Algorithms, Web development, Machine Learning, Deep learning, ...**
 
-- 📫 How to reach me **hvtkiet.15092002@gmail.com**
+- 📫 How to reach me: <a href="hvtkiet.15092002@gmail.com">Personal email</a> (recommend) or <a href="20521494@gm.uit.edu.vn">Business email</a>
 
 - ⚡ Fun fact **I am passionate about traveling, playing football and playing the guitar**
 
