@@ -5,13 +5,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiimking1509" alt="hiimking1509" /></a> </p>
 
-- 🔭 I’m currently working on [University of Information Technology](https://www.uit.edu.vn/)
+- 🔭 I’m currently working on **[University of Information Technology](https://www.uit.edu.vn/)**
 
 - 🌱 I’m currently learning **Artificial Intelligence, Computer Vision and Web Development**
 
 - 🤝 I’m looking for help with **Scientific Research Articles**
 
-- 👨‍💻 My research and study team: <a href="https://uit-together.github.io/?fbclid=IwAR1va9U7n2wXFMybcU55gqFaFt0hCpWSLOl9QVCfLJpbAzzyk0KgfE6s4Ws">UIT-Together Research Group</a>
+- 👨‍💻 My research and study team: **<a href="https://uit-together.github.io/?fbclid=IwAR1va9U7n2wXFMybcU55gqFaFt0hCpWSLOl9QVCfLJpbAzzyk0KgfE6s4Ws">UIT-Together Research Group</a>**
 
 - 💬 Ask me about **Programming, Algorithms, Web development, Machine Learning, Deep learning, ...**
 
