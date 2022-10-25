@@ -1,17 +1,16 @@
 <h1 align="center">Hi guys👋, I'm Huynh Viet Tuan Kiet</h1>
+<!--
 <h4 align="center">I'm Sophomore at a university of information technology in Vietnam.</br> I am passionate about Artificial Intelligence, Machine Learning, Deep Learning and Web Development. </br>I am currently studying and researching in the field of Computer Science, Software Development, English skills and Social skills</h4>
-
+-->
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=hiimking1509&label=Profile%20views&color=0e75b6&style=plastic" alt="hiimking1509" /> </div>
 
 - 🔭 I’m currently working on **[University of Information Technology](https://www.uit.edu.vn/)**
 
-- 🌱 I’m currently learning **Artificial Intelligence, Computer Vision and Web Development**
-
-- 🤝 I’m looking for help with **Scientific Research Articles**
+- 🌱 I’m currently learning **...** <!--- Artificial Intelligence, Computer Vision and Web Development -->
 
 - 👨‍💻 My research and study team: **<a href="https://uit-together.github.io/?fbclid=IwAR1va9U7n2wXFMybcU55gqFaFt0hCpWSLOl9QVCfLJpbAzzyk0KgfE6s4Ws">UIT-Together Research Group</a>**
 
-- 💬 Ask me about **Programming, Algorithms, Web development, Machine Learning, Deep learning, ...**
+- 💬 Ask me about **...** <!-- Programming, Algorithms, Web development, Machine Learning, Deep learning, ... -->
 
 - 📫 How to reach me: **hvtkiet.15092002@gmail.com** (Personal email) or **20521494@gm.uit.edu.vn** (Business email)
 
