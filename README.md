@@ -1,7 +1,6 @@
 <h1 align="center">Hi guys👋, I'm Huynh Viet Tuan Kiet</h1>
-<!--
-<h4 align="center">I'm Sophomore at a university of information technology in Vietnam.</br> I am passionate about Artificial Intelligence, Machine Learning, Deep Learning and Web Development. </br>I am currently studying and researching in the field of Computer Science, Software Development, English skills and Social skills</h4>
--->
+<h4 align="center">I have had three years of studying and working at the University of Information Technology (UIT). My strengths include researching and applying Artificial Intelligence knowledge; developing Web, App, and Mobile applications. Desire to become an ideal AI/full-stack engineer and project manager in a professional environment</h4>
+
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=hiimking1509&label=Profile%20views&color=0e75b6&style=plastic" alt="hiimking1509" /> </div>
 
 - 🔭 I’m currently working on **[University of Information Technology](https://www.uit.edu.vn/)**
